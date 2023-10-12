@@ -13,3 +13,5 @@ git branch
 git config --global user.name "eliyas.ramnad"
 git config --global user.email "eliyas.ramnad7757@gmail.com"
 git checkout -b dev
+git remote -v
+git pull origin main
