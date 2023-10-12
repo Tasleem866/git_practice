@@ -1,2 +1,15 @@
 plus sign next to search to create new repo
 create file in git hub
+git init
+git add
+git commit
+git status
+git log 
+git log --oneline
+git log --online pretty
+git restore filename
+sudo adduser username groupname
+git branch
+git config --global user.name "eliyas.ramnad"
+git config --global user.email "eliyas.ramnad7757@gmail.com"
+git checkout -b dev
