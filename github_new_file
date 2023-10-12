@@ -15,3 +15,6 @@ git config --global user.email "eliyas.ramnad7757@gmail.com"
 git checkout -b dev
 git remote -v
 git pull origin main
+git remote set-url --push origin https://your_access_token@github_url
+git remote set-url --add
+git remote set-url --delete
