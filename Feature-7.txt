@@ -5,3 +5,5 @@ always pull to your pc and make changes in dev and then push to dev get it appro
 always pull from github to your local system in dev branch make the changes push it to github and from github merge it to main 
 
 always pull from main to local system as there are many working in company 
+
+sahi he bhai main branch me file me changes kiye mene fir main branch se local main pe pull kiya aur dev pe checkout karke main se merge kiya to sare changes dikh gaye  
